@@ -1,3 +1,3 @@
 # javascript
 javascript
-https://mdnayonbabujibon.github.io/javascript/.
+https://developernayonb.github.io/javascript/
